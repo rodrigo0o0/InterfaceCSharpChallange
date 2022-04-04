@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\bin\Debug\InterfaceCSharpChallange.exe.config
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\bin\Debug\InterfaceCSharpChallange.exe
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\bin\Debug\InterfaceCSharpChallange.pdb
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\obj\Debug\InterfaceCSharpChallange.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\obj\Debug\InterfaceCSharpChallange.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\obj\Debug\InterfaceCSharpChallange.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\obj\Debug\InterfaceCSharpChallange.exe
+C:\Users\sande\source\repos\InterfaceCSharpChallange\InterfaceCSharpChallange\obj\Debug\InterfaceCSharpChallange.pdb
